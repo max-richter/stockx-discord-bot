@@ -1,6 +1,6 @@
 {
     "name": "stockx-discord-bot",
-    "version": "1.0",
+    "version": "0.2",
     "description": "A discord bot used to retrieve product info from StockX using keywords or URLs",
     "main": "index.js",
     "author": "max-richter",
