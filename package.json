@@ -3,7 +3,7 @@
     "version": "1.0",
     "description": "A discord bot used to retrieve product info from StockX using keywords or URLs",
     "main": "index.js",
-    "author": "rictaaa",
+    "author": "max-richter",
     "license": "MIT",
     "dependencies": {
         "request":"2.88.0",

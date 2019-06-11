@@ -11,4 +11,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('token'); // user token
+client.login('user-token'); // user token
